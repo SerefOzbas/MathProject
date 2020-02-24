@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "GetAllQuestion";
+}
+
+<h2>GetAllQuestion</h2>
+
+@model List<Question>
+
+@foreach (Question item in Model)
+{
+    <div class="col-lg-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                @Html.ActionLink(item.Sharing, "QuestionDetails","Home",new { questionid=item.ID})
+            </div>
+            <div class="panel-body">
+                <div style="width:100%;height:100%;">
+                   @Html.ActionLink(item.Explanation,"QuestionDetails" ,"Home",new { questionid=item.ID})
+                </div>
+            </div>
+        </div>
+    </div>
+}

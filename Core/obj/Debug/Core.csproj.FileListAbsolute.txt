@@ -1,0 +1,10 @@
+C:\Users\dmseref\source\repos\MathProject\Core\bin\Debug\Core.dll.config
+C:\Users\dmseref\source\repos\MathProject\Core\bin\Debug\Core.dll
+C:\Users\dmseref\source\repos\MathProject\Core\bin\Debug\Core.pdb
+C:\Users\dmseref\source\repos\MathProject\Core\bin\Debug\EntityFramework.dll
+C:\Users\dmseref\source\repos\MathProject\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dmseref\source\repos\MathProject\Core\bin\Debug\EntityFramework.xml
+C:\Users\dmseref\source\repos\MathProject\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dmseref\source\repos\MathProject\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\dmseref\source\repos\MathProject\Core\obj\Debug\Core.dll
+C:\Users\dmseref\source\repos\MathProject\Core\obj\Debug\Core.pdb

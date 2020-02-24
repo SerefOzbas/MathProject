@@ -1,0 +1,16 @@
+C:\Users\dmseref\source\repos\MathProject\Dal\bin\Debug\Dal.dll.config
+C:\Users\dmseref\source\repos\MathProject\Dal\bin\Debug\Dal.dll
+C:\Users\dmseref\source\repos\MathProject\Dal\bin\Debug\Dal.pdb
+C:\Users\dmseref\source\repos\MathProject\Dal\bin\Debug\Core.dll
+C:\Users\dmseref\source\repos\MathProject\Dal\bin\Debug\EntityFramework.dll
+C:\Users\dmseref\source\repos\MathProject\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dmseref\source\repos\MathProject\Dal\bin\Debug\Model.dll
+C:\Users\dmseref\source\repos\MathProject\Dal\bin\Debug\Core.pdb
+C:\Users\dmseref\source\repos\MathProject\Dal\bin\Debug\Core.dll.config
+C:\Users\dmseref\source\repos\MathProject\Dal\bin\Debug\Model.pdb
+C:\Users\dmseref\source\repos\MathProject\Dal\bin\Debug\EntityFramework.xml
+C:\Users\dmseref\source\repos\MathProject\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dmseref\source\repos\MathProject\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\dmseref\source\repos\MathProject\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\dmseref\source\repos\MathProject\Dal\obj\Debug\Dal.dll
+C:\Users\dmseref\source\repos\MathProject\Dal\obj\Debug\Dal.pdb

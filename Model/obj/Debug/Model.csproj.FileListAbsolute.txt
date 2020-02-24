@@ -1,0 +1,11 @@
+C:\Users\dmseref\source\repos\MathProject\Model\bin\Debug\Model.dll
+C:\Users\dmseref\source\repos\MathProject\Model\bin\Debug\Model.pdb
+C:\Users\dmseref\source\repos\MathProject\Model\bin\Debug\Core.dll
+C:\Users\dmseref\source\repos\MathProject\Model\bin\Debug\EntityFramework.dll
+C:\Users\dmseref\source\repos\MathProject\Model\bin\Debug\Core.pdb
+C:\Users\dmseref\source\repos\MathProject\Model\bin\Debug\Core.dll.config
+C:\Users\dmseref\source\repos\MathProject\Model\bin\Debug\EntityFramework.xml
+C:\Users\dmseref\source\repos\MathProject\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\dmseref\source\repos\MathProject\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\dmseref\source\repos\MathProject\Model\obj\Debug\Model.dll
+C:\Users\dmseref\source\repos\MathProject\Model\obj\Debug\Model.pdb
